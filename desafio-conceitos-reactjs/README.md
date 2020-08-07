@@ -4,7 +4,7 @@
   Desafio 03: Conceitos do ReactJS
 </h3>
 
-<p align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
+<blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
@@ -42,6 +42,8 @@ O template está disponível na seguinte url: **[Acessar Template](https://githu
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, execute o comando `yarn` no seu terminal para instalar todas as dependências e já estará pronto para iniciar.
 
+**Atenção:** Não é necessário instalar nenhuma dependencia (como o webpack). O template já vem funcional, e é apenas necessário rodar o comando `yarn start` e codar.
+
 ### Funcionalidades da aplicação
 
 Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo **src/App.js**, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.
@@ -70,7 +72,7 @@ Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do re
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 

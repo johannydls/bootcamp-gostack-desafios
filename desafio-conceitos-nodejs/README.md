@@ -4,7 +4,7 @@
   Desafio 02: Conceitos do Node.js
 </h3>
 
-<p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
+<blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
@@ -104,7 +104,7 @@ Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do re
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
